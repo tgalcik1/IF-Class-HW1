@@ -1,10 +1,12 @@
 get crowbar
 get pistol
 out
+pry barricade
 pry barricade with crowbar
 in
 get painkillers
 east
+break open display
 break open display with crowbar
 up
 shoot zombie with pistol
